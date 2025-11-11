@@ -52,7 +52,8 @@ Berikut tampilan script PHP yang digunakan:
 
 ### 4. Tampilan Form Input
 Berikut tampilan form input yang digunakan untuk memasukkan data pengguna:
-![Form Input](img/form_input.png)
+![Form Input]<img width="609" height="423" alt="image" src="https://github.com/user-attachments/assets/f5fad353-ee5f-42fb-ad2d-b7b828903513" />
+
 
 ---
 
