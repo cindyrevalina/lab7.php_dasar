@@ -45,7 +45,8 @@ Praktikum ini bertujuan untuk:
 
 ### 3. Tampilan Kode Program
 Berikut tampilan script PHP yang digunakan:
-![Kode Program](img/code.png)
+![Kode Program]<img width="2218" height="3256" alt="image" src="https://github.com/user-attachments/assets/a6416182-8ca3-4906-ad5f-159c6823551a" />
+
 
 ---
 
