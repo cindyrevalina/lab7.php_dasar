@@ -59,7 +59,8 @@ Berikut tampilan form input yang digunakan untuk memasukkan data pengguna:
 
 ### 5. Tampilan Hasil Output
 Setelah data dikirim, hasil perhitungan umur dan gaji akan muncul seperti berikut:
-![Hasil Output](img/hasil_output.png)
+![Hasil Output]<img width="663" height="219" alt="image" src="https://github.com/user-attachments/assets/afd5fe24-a58b-460c-8d06-027599cc54cc" />
+
 
 
 
